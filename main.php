@@ -7,7 +7,6 @@
 		exit();
 	}
 	else
-		echo "<pre>";
 		do_login('main.php');
 
 ?>
